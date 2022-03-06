@@ -1,0 +1,24 @@
+.navbar-brand {
+  font-family: "Sniglet", cursive;
+  font-weight: bolder;
+  font-size: 25px;
+}
+#navbarNav {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+}
+h1 {
+  font-family: "Sniglet", cursive;
+  font-weight: bolder;
+}
+.lead {
+  font-family: "Poppins", sans-serif;
+  font-size: medium;
+}
+#gallery {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+.caption {
+  font-family: "Averia Libre", cursive;
+}
